@@ -1,0 +1,3 @@
+# .gitignore content
+output.txt
+node_modules/
